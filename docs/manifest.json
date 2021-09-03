@@ -11,6 +11,7 @@
             "name": "google/cloud",
             "defaultService": "servicebuilder",
             "versions": [
+                "v0.166.0",
                 "v0.165.0",
                 "v0.164.0",
                 "v0.163.1",
@@ -300,6 +301,7 @@
             "name": "google/cloud-asset",
             "defaultService": "asset/readme",
             "versions": [
+                "v1.5.1",
                 "v1.5.0",
                 "v1.4.2",
                 "v1.4.1",
@@ -466,6 +468,7 @@
             "name": "google/cloud-bigquery-reservation",
             "defaultService": "bigqueryreservation/readme",
             "versions": [
+                "v0.4.0",
                 "v0.3.0",
                 "v0.2.6",
                 "v0.2.5",
@@ -557,6 +560,7 @@
             "name": "google/cloud-bigtable",
             "defaultService": "bigtable/readme",
             "versions": [
+                "v1.11.0",
                 "v1.10.1",
                 "v1.10.0",
                 "v1.9.1",
@@ -702,6 +706,7 @@
             "name": "google/cloud-compute",
             "defaultService": "compute/readme",
             "versions": [
+                "v0.3.2",
                 "v0.3.1",
                 "v0.3.0",
                 "v0.2.1",
@@ -907,6 +912,7 @@
             "name": "google/cloud-dataproc",
             "defaultService": "dataproc/readme",
             "versions": [
+                "v2.2.0",
                 "v2.1.0",
                 "v2.0.1",
                 "v2.0.0",
@@ -981,6 +987,7 @@
             "name": "google/cloud-datastore",
             "defaultService": "datastore/datastoreclient",
             "versions": [
+                "v1.13.0",
                 "v1.12.4",
                 "v1.12.3",
                 "v1.12.2",
@@ -1112,6 +1119,7 @@
             "name": "google/cloud-dialogflow",
             "defaultService": "dialogflow/readme",
             "versions": [
+                "v0.23.1",
                 "v0.23.0",
                 "v0.22.0",
                 "v0.21.0",
@@ -1354,6 +1362,7 @@
             "name": "google/cloud-firestore",
             "defaultService": "firestore/firestoreclient",
             "versions": [
+                "v1.20.0",
                 "v1.19.4",
                 "v1.19.3",
                 "v1.19.2",
@@ -2647,6 +2656,7 @@
             "name": "google/cloud-talent",
             "defaultService": "talent/readme",
             "versions": [
+                "v0.16.0",
                 "v0.15.3",
                 "v0.15.2",
                 "v0.15.1",
